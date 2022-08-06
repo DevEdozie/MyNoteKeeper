@@ -5,7 +5,8 @@
       <map>
         <entry key="..\:/Users/AC/AndroidStudioProjects/MyNoteKeeper/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/AC/AndroidStudioProjects/MyNoteKeeper/app/src/main/res/layout/activity_note.xml" value="0.22" />
-        <entry key="..\:/Users/AC/AndroidStudioProjects/MyNoteKeeper/app/src/main/res/layout/activity_note_list.xml" value="0.1" />
+        <entry key="..\:/Users/AC/AndroidStudioProjects/MyNoteKeeper/app/src/main/res/layout/activity_note_list.xml" value="0.22" />
+        <entry key="..\:/Users/AC/AndroidStudioProjects/MyNoteKeeper/app/src/main/res/layout/list_content.xml" value="0.25" />
       </map>
     </option>
   </component>
